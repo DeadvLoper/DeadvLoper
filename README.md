@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DeadvLoper
-- 👀 I’m interested in Frontend Devlopment
-- 🌱 I’m currently learning HTML,CSS & JS
-- 💞️ I’m looking to collaborate on Open-Source Frontend Projects
+- 👀 I’m interested in Android App Development.
+- 🌱 I’m currently learning Flutter & Dart, later will start Kotlin.
+- 💞️ I’m looking to collaborate on Open-Source Flutter Projects
 - 📫 How to reach me lazzycat27@gmail.com
 
 <!---
